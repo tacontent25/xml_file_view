@@ -1,0 +1,150 @@
+<feed>
+	<generation-date>2025-04-22T08:33:01+00:00</generation-date>
+	<complex>
+		<guid>E80554E4</guid>
+		<name>Testovy</name>
+		<complex-housing>
+			<guid>82C96C49</guid>
+			<name>Тестовый ЖК, 1 очередь 1 этап</name>
+			<address>Санкт-Петербург, поселок Тестовый</address>
+			<floors-total>16</floors-total>
+			<building-state>не закончено</building-state>
+			<built-year>2023</built-year>
+			<ready-quarter>3</ready-quarter>
+			<building-section>Корпус 1.1</building-section>
+			<section>
+				<guid>C24D6546</guid>
+				<name>Секция №1</name>
+				<flat>
+					<guid>5318ACE4</guid>
+					<number>121б</number>
+					<status>Свободно</status>
+					<type>студия</type>
+					<floor>14</floor>
+					<rooms>0</rooms>
+					<position-on-floor>5</position-on-floor>
+					<transfer>0</transfer>
+					<has-finishing>1</has-finishing>
+					<with-wardrobe>0</with-wardrobe>
+					<wc-count>1</wc-count>
+					<discounts>-25%</discounts>
+					<area>
+						<value>26.98</value>
+						<unit>кв. м.</unit>
+					</area>
+						<balcony-area>
+							<value>4</value>
+							<unit>кв. м.</unit>
+						</balcony-area>
+					<kitchen-space/>
+					<living-space>
+						<value>22.98</value>
+						<unit>кв. м.</unit>
+					</living-space>
+					<base_price>
+						<value>5921466.00</value>
+						<currency>RUB</currency>
+					</base_price>
+					<price_sk>
+						<value>4441099.00</value>
+						<currency>RUB</currency>
+					</price_sk>
+					<num-pib>121</num-pib>
+					<pib-area>
+						<value>23.10</value>
+						<unit>кв. м.</unit>
+					</pib-area>
+					<pib-floor-index>14</pib-floor-index>
+					<pib-floor>14 этаж</pib-floor>
+					<plan-schema>https://drive.google.com/file/d/1Kk6T5yKK3pE0SdhFjGvKqNuUnukQMzQV/view</plan-schema>
+				</flat>
+				<flat>
+					<guid>10E2A670</guid>
+					<number>124и</number>
+					<status>Свободно</status>
+					<type>студия</type>
+					<floor>14</floor>
+					<rooms>0</rooms>
+					<position-on-floor>8</position-on-floor>
+					<transfer>0</transfer>
+					<has-finishing>1</has-finishing>
+					<with-wardrobe>0</with-wardrobe>
+					<wc-count>1</wc-count>
+					<discounts>-25%</discounts>
+					<area>
+						<value>29.17</value>
+						<unit>кв. м.</unit>
+					</area>
+					<balcony-area>
+						<value>4.44</value>
+						<unit>кв. м.</unit>
+					</balcony-area>
+					<kitchen-space/>
+					<living-space>
+						<value>24.73</value>
+						<unit>кв. м.</unit>
+					</living-space>
+					<base_price>
+						<value>6063435.00</value>
+						<currency>RUB</currency>
+					</base_price>
+					<price_sk>
+						<value>4547576.00</value>
+						<currency>RUB</currency>
+					</price_sk>
+					<num-pib>124</num-pib>
+					<pib-area>
+						<value>24.70</value>
+						<unit>кв. м.</unit>
+					</pib-area>
+					<pib-floor-index>14</pib-floor-index>
+					<pib-floor>14 этаж</pib-floor>
+					<plan-schema>https://drive.google.com/file/d/1M_115qIE62xZJMYcnKMDEJnMIo1GrGqk/view</plan-schema>
+				</flat>
+				<flat>
+					<guid>CA5CD49F-B699-4D5C-A0E5-68CD8CDA2714</guid>
+					<number>142</number>
+					<status>Свободно</status>
+					<type>студия</type>
+					<floor>16</floor>
+					<rooms>0</rooms>
+					<position-on-floor>8</position-on-floor>
+					<transfer>0</transfer>
+					<has-finishing>1</has-finishing>
+					<with-wardrobe>0</with-wardrobe>
+					<wc-count>1</wc-count>
+					<discounts>-25%</discounts>
+					<area>
+						<value>29.17</value>
+						<unit>кв. м.</unit>
+					</area>
+					<balcony-area>
+						<value>4.44</value>
+						<unit>кв. м.</unit>
+					</balcony-area>
+					<kitchen-space/>
+					<living-space>
+						<value>24.73</value>
+						<unit>кв. м.</unit>
+					</living-space>
+					<base_price>
+						<value>6129354.00</value>
+						<currency>RUB</currency>
+					</base_price>
+					<price_sk>
+						<value>4597015.00</value>
+						<currency>RUB</currency>
+					</price_sk>
+					<num-pib>142</num-pib>
+					<pib-area>
+						<value>24.80</value>
+						<unit>кв. м.</unit>
+					</pib-area>
+					<pib-floor-index>16</pib-floor-index>
+					<pib-floor>16 этаж</pib-floor>
+					<plan-schema>https://drive.google.com/file/d/13DQPSOAW3IT3eeNICjanw9AFipBSzgfX/view</plan-schema>
+				</flat>
+			</section>
+		</complex-housing>
+	</complex>
+</feed>
